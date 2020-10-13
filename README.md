@@ -2,7 +2,7 @@ This project created using ReactJS and was bootstrapped with [Create React App](
 
 ## Available Scripts
 
-In the project directory, you can run:
+In the project directory, you can first run:
 
 ### `npm start`
 
